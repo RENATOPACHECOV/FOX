@@ -1,12 +1,37 @@
-#EXTM3U 
+#EXTM3U
 
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+https://tv.teleclub.xyz/canal/LIVE-D_HYH.m3u8
 
+#EXTINF:-1,STAR CLASSICS
+https://tv.teleclub.xyz/canal/LIVE-STAR_CLASSICS.m3u8
 
-#EXTINF:-1,DISNEY XD
+#EXTINF:-1,ANIMAL PLANET
+https://tv.teleclub.xyz/canal/LIVE-ANIMAL_PLANET.m3u8
 
-http://e10.telerium.uno:2052/free10/140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDI6MjA6MTMgQU0maGFzaF92YWx1ZT1nWnBNR1I5dngyb3daMlRVTzZKWkVnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,MTV
+https://tv.teleclub.xyz/canal/LIVE-MTV.m3u8
 
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1,HISTORY
+https://tv.teleclub.xyz/canal/LIVE-HISTORY.m3u8
 
-http://e10.telerium.uno:2052/free10/049/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDY6Mjg6MzggQU0maGFzaF92YWx1ZT1yOGhhbS9KRkZPSlpNTmxWTUFJM3dBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,NAT GEO WILD
+https://tv.teleclub.xyz/canal/LIVE-NATGEOWILD.m3u8
 
+#EXTINF:-1,DISCOVERY CHANNEL
+https://tv.teleclub.xyz/canal/LIVE-DISCOVERY.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+https://tv.teleclub.xyz/canal/LIVE-D_THEATER.m3u8
+
+#EXTINF:-1,TLC
+https://tv.teleclub.xyz/canal/LIVE-D_TLC.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD
+https://tv.teleclub.xyz/canal/LIVE-D_WORLD.m3u8
+
+#EXTINF:-1,A&E
+https://tv.teleclub.xyz/canal/LIVE-AE.m3u8
+
+#EXTINF:-1,RT 
+https://rt-esp.secure.footprint.net/1102.m3u8
