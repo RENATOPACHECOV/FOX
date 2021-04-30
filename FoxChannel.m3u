@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,AMERICA TV
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
+
 #EXTINF:-1,DISCOVERY HOME & HEALTH
 https://tv.teleclub.xyz/canal/LIVE-D_HYH.m3u8
 
