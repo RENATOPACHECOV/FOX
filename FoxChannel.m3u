@@ -1,40 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1,AMERICA TV
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
-
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-https://tv.teleclub.xyz/canal/LIVE-D_HYH.m3u8
-
-#EXTINF:-1,STAR CLASSICS
-https://tv.teleclub.xyz/canal/LIVE-STAR_CLASSICS.m3u8
-
-#EXTINF:-1,ANIMAL PLANET
-https://tv.teleclub.xyz/canal/LIVE-ANIMAL_PLANET.m3u8
-
-#EXTINF:-1,MTV
-https://tv.teleclub.xyz/canal/LIVE-MTV.m3u8
-
-#EXTINF:-1,HISTORY
-https://tv.teleclub.xyz/canal/LIVE-HISTORY.m3u8
-
-#EXTINF:-1,NAT GEO WILD
-https://tv.teleclub.xyz/canal/LIVE-NATGEOWILD.m3u8
-
-#EXTINF:-1,DISCOVERY CHANNEL
-https://tv.teleclub.xyz/canal/LIVE-DISCOVERY.m3u8
-
-#EXTINF:-1,DISCOVERY THEATER
-https://tv.teleclub.xyz/canal/LIVE-D_THEATER.m3u8
-
-#EXTINF:-1,TLC
-https://tv.teleclub.xyz/canal/LIVE-D_TLC.m3u8
-
-#EXTINF:-1,DISCOVERY WORLD
-https://tv.teleclub.xyz/canal/LIVE-D_WORLD.m3u8
-
-#EXTINF:-1,A&E
-https://tv.teleclub.xyz/canal/LIVE-AE.m3u8
-
-#EXTINF:-1,RT 
-https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1,Movistar Liga de Campeones FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/23282
+#EXTINF:-1,Teledeporte FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/23441
+#EXTINF:-1,TeleMadrid FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/26532
+#EXTINF:-1,Movistar LaLiga HD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
+#EXTINF:-1,Movistar LaLiga 1 HD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28330
+#EXTINF:-1,Movistar LaLiga 2 HD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28331
+#EXTINF:-1,Movistar LaLiga 3 ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28328
+#EXTINF:-1,Movistar LaLiga 3 HD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28332
+#EXTINF:-1,Movistar LaLiga 4 ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28333
+#EXTINF:-1,Movistar LaLiga ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28334
+#EXTINF:-1,DMAX ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28435
+#EXTINF:-1,FOX Sports 1 HD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28597
+#EXTINF:-1,FOX Sports 2 FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28598
+#EXTINF:-1,FOX Sports 3 FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28599
+#EXTINF:-1,Esport 3 Cat ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28600
+#EXTINF:-1,Movistar Liga de Campeones ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28654
+#EXTINF:-1,Movistar Liga de Campeones 1 ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28656
+#EXTINF:-1,Movistar Liga de Campeones 1 FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28655
+#EXTINF:-1,Movistar Liga de Campeones 2 ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28658
+#EXTINF:-1,Movistar Liga de Campeones 2 FHD ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28657
+#EXTINF:-1,Movistar Liga de Campeones 3 ES
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28659
